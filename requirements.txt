@@ -1,0 +1,10 @@
+aiohttp
+aiodns
+cchardet
+brotli
+zstandard
+tldextract
+beautifulsoup4
+lxml
+dnspython
+python-whois
