@@ -1,4 +1,5 @@
 # Probot
+```text
 Ultra-Fast Async URL Scanner v1
 
 Usage:
@@ -26,3 +27,4 @@ Performance & Output:
   -o, --output FILE          Save output to file
   -silent                    Disable banner and extra startup text
   -h, --help                 Show this help message
+```
